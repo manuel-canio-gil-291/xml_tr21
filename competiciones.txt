@@ -1,0 +1,13 @@
+Nombre de las competiciones femeninas: {
+FA Women's Super League
+FA Women's Super League
+FA Women's Super League
+NWSL
+Women's World Cup
+}
+Nombre de las competiciones que realizan en Europa y son internacionales: {
+}
+Nombre de las competiciones que tienen partidos disponibles 360: {
+La Liga
+UEFA Euro
+}
